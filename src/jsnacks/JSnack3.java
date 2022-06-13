@@ -11,7 +11,6 @@ public class JSnack3 {
 		
 		String[] nomi = {"Luciano", "Vasco", "Tiziano", "Max", "Claudio"};
 		String[] cognomi = {"Ligabue","Rossi","Ferro", "Pezzali", "Baglioni"};			
-		String[] Lista = new String [3];
 		
 		Random rand = new Random();
 		
